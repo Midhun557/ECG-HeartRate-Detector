@@ -1,13 +1,13 @@
 # 🫀 ECG Heart Rate Detector (MATLAB)
 
-This MATLAB project detects **R-peaks** from ECG signals and estimates the **average heart rate (in bpm)** using signal processing techniques. The project includes preprocessing, peak detection, and visualization steps to demonstrate heart rate calculation.
+This MATLAB project detects R-peaks from ECG signals and estimates the average heart rate (in bpm) using signal processing techniques. The project includes preprocessing, peak detection, and visualization steps to demonstrate heart rate calculation.
 
 ## ⚙️ Features
 
 - Load ECG signal data from `.mat` files  
-- Apply **bandpass filtering** (0.5–50 Hz) to remove noise  
-- Detect **R-peaks** using MATLAB’s `findpeaks()`  
-- Calculate **RR intervals** and average **heart rate**  
+- Apply bandpass filtering (0.5–50 Hz) to remove noise  
+- Detect R-peaks using MATLAB’s `findpeaks()`  
+- Calculate RR intervals and average heart rate 
 - Plot original, filtered ECG, and ECG with R-peaks  
 
 ## 📂 Project Structure
