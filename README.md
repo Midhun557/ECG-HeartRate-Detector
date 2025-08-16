@@ -10,21 +10,6 @@ This MATLAB project detects R-peaks from ECG signals and estimates the average h
 - Calculate RR intervals and average heart rate 
 - Plot original, filtered ECG, and ECG with R-peaks  
 
-## 📂 Project Structure
-
-ECG-HeartRate-Detector/
-  ├── ecg_heartbeat.m → Main MATLAB script
-  ├── ecgdemodata1.mat → Sample ECG signal 1
-  ├── ecgdemodata2.mat → Sample ECG signal 2
-  ├── Images/ → Output screenshots
-  │ ├── ecg_plot_data1.png
-  │ ├── ecg_plot_data2.png
-  │ ├── ecg_output_data1.png
-  │ ├── ecg_output_data2.png
-  │ └── ecg_output_data1.png
-  ├── README.md → Project documentation
-  └── LICENSE → MIT License
-
 ## 🧪 Sample Inputs
 
 The project includes two sample ECG datasets for testing:
