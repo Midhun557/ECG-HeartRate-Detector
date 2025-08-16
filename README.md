@@ -8,7 +8,14 @@ This MATLAB project detects R-peaks from ECG signals and estimates the average h
 - Apply bandpass filtering (0.5–50 Hz) to remove noise  
 - Detect R-peaks using MATLAB’s `findpeaks()`  
 - Calculate RR intervals and average heart rate 
-- Plot original, filtered ECG, and ECG with R-peaks  
+- Plot original, filtered ECG, and ECG with R-peaks
+
+## 📂 Project Structure
+
+- `ecg_heartbeat.m` : MATLAB script
+- `ecgdemodata1.mat` : Sample ECG signal 1
+- `ecgdemodata2.mat` : Sample ECG signal 2
+- `Images/` : Output screenshots
 
 ## 🧪 Sample Inputs
 
