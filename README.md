@@ -17,11 +17,11 @@ ECG-HeartRate-Detector/
   ├── ecgdemodata1.mat → Sample ECG signal 1
   ├── ecgdemodata2.mat → Sample ECG signal 2
   ├── Images/ → Output screenshots
-    │ ├── ecg_plot_data1.png
-    │ ├── ecg_plot_data2.png
-    │ ├── ecg_output_data1.png
-    │ ├── ecg_output_data2.png
-    │ └── ecg_output_data1.png
+  │ ├── ecg_plot_data1.png
+  │ ├── ecg_plot_data2.png
+  │ ├── ecg_output_data1.png
+  │ ├── ecg_output_data2.png
+  │ └── ecg_output_data1.png
   ├── README.md → Project documentation
   └── LICENSE → MIT License
 
